@@ -1,3 +1,5 @@
+# Now maintained by Carpa1l 
+
 # Commander
 
 I liked the idea of Commander, but I never liked how I coded it, with that I am hugely unmotivated to code for Commander, and more errors and typos started to come out. As a result, I'll probably archive this project. Feel free to make a new one and do whatever you want, honestly don't want to care anymore.
