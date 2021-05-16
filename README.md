@@ -1,16 +1,14 @@
 # Now maintained by Carpa1l 
 
-# Commander
+# Commander Reborn
 
-Commander is an open sourced and community driven administration panel for your Roblox games' needs. Created and designed to be extremely flexible and customisable.
+Comander Reborn is an continuation of Commander 4 made by Va1kio, It will include (currently) everything that was originally made by Valkio.
 
-![commander banner](https://cdn.discordapp.com/attachments/813583766039560206/831496945604100136/Banner.png)
+# Documents
 
-Visit our [documentation](https://commander-4.vercel.app) to learn more. If you have any questions about Commander, feel free to submit a new issue, or visit our Discord community at [here](https://va1kio.github.io/commander-site/goto#discord).
+Inside our documents you can see how to use the API, Guides and more for you to use if your stuck at any point!
 
-## Documentation
 
-If you want to learn more about Commander in the development side, visit our [documentation](https://commander-4.vercel.app), which includes API reference for packages and the UI library, tutorials on making packages, installing packages, installing themes and more. You can find the source code of the documentation [here](https://github.com/va1kio/commander-site/tree/master/docs-src/v1)
 
 ## Installing
 
@@ -29,7 +27,7 @@ rojo serve
 
 ### Loader
 
-For your convenience, we've also released Commander as a loader, which allows Commander to be always up-to-date and easier to manage. You can find the download link [here](https://www.roblox.com/library/6648688759/). Place the loader inside `ServerScriptService` for high maintainability and maximum security.
+For your convenience, we've also released Commander as a loader, which allows Commander to be always up-to-date and easier to manage. You can find the download link [here](https://www.roblox.com/library/idhere/). Place the loader inside `ServerScriptService` for high maintainability and maximum security.
 
 ## Contributing
 
