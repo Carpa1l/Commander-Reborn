@@ -1,5 +1,7 @@
 # Now maintained by Carpa1l 
 
+Not supporting the rblx file...
+
 # Commander Reborn
 
 Comander Reborn is an continuation of Commander 4 made by Va1kio, It will include (currently) everything that was originally made by Valkio.
