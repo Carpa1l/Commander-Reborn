@@ -1,5 +1,7 @@
 # Now maintained by Carpa1l 
 
+Join our discord community: https://discord.gg/PyYSkGgRSV
+
 Not supporting the rblx file...
 
 # Commander Reborn
