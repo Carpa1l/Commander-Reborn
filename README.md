@@ -29,7 +29,7 @@ rojo serve
 
 ### Loader
 
-For your convenience, we've also released Commander as a loader, which allows Commander to be always up-to-date and easier to manage. You can find the download link [here](https://www.roblox.com/library/idhere/). Place the loader inside `ServerScriptService` for high maintainability and maximum security.
+For your convenience, we've also released Commander as a loader, which allows Commander to be always up-to-date and easier to manage. You can find the download link [here](https://www.roblox.com/library/6829537547/Commander-Reborn). Place the loader inside `ServerScriptService` for high maintainability and maximum security.
 
 ## Contributing
 
